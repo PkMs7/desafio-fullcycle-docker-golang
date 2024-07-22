@@ -28,4 +28,4 @@ Divirta-se!
 
 ## Docker Hub
 
--> [Repositório da Imagem do Desafio no Docker Hub](https://hub.docker.com/r/patrickmarquesdev/desafio_fullcycle_docker_golang)
+-> [Repositório da Imagem do Desafio no Docker Hub](https://hub.docker.com/r/patrickmarquesdev/fullcycle)
